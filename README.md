@@ -28,12 +28,8 @@ The following Libraries are required for the pproject.
 
 ### Files
 Below is the structure of the files in the repository
-<<<<<<< HEAD
- ```
-=======
 
-'''
->>>>>>> 770ac93b087fa32b839a2056bc004c4d9b4d8f94
+ ```
 - app
 | - template
 | |- master.html  # main page of web app
@@ -49,11 +45,8 @@ Below is the structure of the files in the repository
 - models
 |- train_classifier.py
 |- classifier.pkl  # saved model 
-<<<<<<< HEAD
 ```
-=======
-'''
->>>>>>> 770ac93b087fa32b839a2056bc004c4d9b4d8f94
+
 
 
 ### Instructions:
