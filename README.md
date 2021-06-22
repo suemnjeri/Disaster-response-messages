@@ -9,7 +9,7 @@ texk messages into 36 categories.
 The following Libraries are required for the pproject.
 * Python 3
 * Anaconda
-* Pandas, Numpy, Re, Sqlalchemy, Pickle, Sklearn, and NLTK
+* Pandas, Numpy, Sqlalchemy, Re, Pickle, Sklearn, and NLTK
 
 ### Project steps
 ```
